@@ -1,1 +1,1 @@
-[DEMO LINK](https://mykolamak.github.io/clickFirecracker/)
+[DEMO_LINK](https://mykolamak.github.io/clickFirecracker/)
